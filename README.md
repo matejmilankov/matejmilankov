@@ -1,13 +1,13 @@
 # Hi, I'm Matej
 
-Software Engineering Student @ FTN, Novi Sad.  
-Focused on full stack development (`.NET`, `React`, `Java`, `Node.js`).
+Computer Science Student @ FTN, Novi Sad.  
+Focused on full stack development (`.NET`, `React`, `TypeScript`, `Node.js`).
 
 ---
 
 ### Featured Projects
-* **[CommunityHub](https://github.com/your-username/project1)** — Desktop application for residential building management (C# / WPF / MVVM)
-* **[IMDb Clone](https://github.com/your-username/project2)** — In development
+* **[CommunityHub](https://github.com/matejmilankov/BuildingManagementSystem)** — Desktop application for residential building management (C# / WPF / MVVM)
+* **[IMDb Clone](https://github.com/matejmilankov/IMDBClone)** — In development
 
 ---
 
