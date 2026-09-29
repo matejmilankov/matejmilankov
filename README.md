@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Matej
 
-<!--
-**matejmilankov/matejmilankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student @ FTN, Novi Sad.  
+Focused on full stack development (`.NET`, `React`, `Java`, `Node.js`).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+* **[CommunityHub](https://github.com/your-username/project1)** — Desktop application for residential building management (C# / WPF / MVVM)
+* **[IMDb Clone](https://github.com/your-username/project2)** — In development
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/milankov-matej/) • [Email](mailto:matej.milankov@gmail.com)
